@@ -1,0 +1,3 @@
+﻿  kusloa.cpp
+D:\Study\LOAIZ\Kursach\LOAIZcoursework\kusloa\kusloa\kusloa.cpp(192,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  kusloa.vcxproj -> D:\Study\LOAIZ\Kursach\LOAIZcoursework\kusloa\x64\Debug\kusloa.exe

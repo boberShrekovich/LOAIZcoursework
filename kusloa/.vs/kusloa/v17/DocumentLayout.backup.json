@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\LOAIZ\\Kursach\\LOAIZcoursework\\kusloa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17277164-983F-4F2C-B59F-17ECD5F87067}|kusloa\\kusloa.vcxproj|D:\\Study\\LOAIZ\\Kursach\\LOAIZcoursework\\kusloa\\kusloa\\kusloa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17277164-983F-4F2C-B59F-17ECD5F87067}|kusloa\\kusloa.vcxproj|solutionrelative:kusloa\\kusloa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kusloa.cpp",
+              "DocumentMoniker": "D:\\Study\\LOAIZ\\Kursach\\LOAIZcoursework\\kusloa\\kusloa\\kusloa.cpp",
+              "RelativeDocumentMoniker": "kusloa\\kusloa.cpp",
+              "ToolTip": "D:\\Study\\LOAIZ\\Kursach\\LOAIZcoursework\\kusloa\\kusloa\\kusloa.cpp",
+              "RelativeToolTip": "kusloa\\kusloa.cpp",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T13:57:13.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
